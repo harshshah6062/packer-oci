@@ -12,7 +12,7 @@
 
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaizzbybmowo5nhyxkwmavi5axolm55h2hxomdxtsa45hf4k7gf2ba",
 
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaa5hfohozqjtfj2cnyu7ihawgldlvia4ojz7fokrhmcwibcmxsx5aa",
 
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
 
