@@ -10,7 +10,7 @@
 
       "my.region": "us-ashburn-1",
 
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaizzbybmowo5nhyxkwmavi5axolm55h2hxomdxtsa45hf4k7gf2ba",
 
       "my.subnet_ocid": "pasteYourSubnetsOCID",
 
